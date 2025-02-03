@@ -4,6 +4,8 @@
 
 ![GitHub Snake](https://raw.githubusercontent.com/OfficialCodeVoyage/OfficialCodeVoyage/refs/heads/output/github-snake-dark.svg)
 
+<p align="right>Snake Crédit : Pavlo Bondarenko</p>
+
 <h2>:hammer_and_wrench: Languages and Tools</h2>
 
 [![My Skills](https://skillicons.dev/icons?i=js,ts,php,java,python,dart,express,flutter,java,kotlin,react,vuejs,svelte)](https://skillicons.dev)
