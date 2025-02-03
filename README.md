@@ -5,7 +5,7 @@
 ### Programming Skills
 [![My Skills](https://skillicons.dev/icons?i=js,ts,php,java,python,dart,express,flutter,java,kotlin)](https://skillicons.dev)
 ### Operating Systems
-[![My Skills](https://skillicons.dev/icons?i=debian,raspberrypilinux,windows,ubuntu)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=debian,raspberrypi,linux,windows,ubuntu)](https://skillicons.dev)
 ### My IDEs
 [![My Skills](https://skillicons.dev/icons?i=idea,phpstorm,androidstudio)](https://skillicons.dev)
 ### UX & UI
